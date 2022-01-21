@@ -4,4 +4,4 @@ Natural Language Processing (NLP) is a hotbed of research in data science these 
 
 Thousands of text documents can be processed for sentiment (and other features including named entities, topics, themes, etc.) in seconds, compared to the hours it would take a team of people to manually complete the same task.
 
-This project is an attempt to solve the problem of text classification on twitter text datas— the task is to predict whether a tweet is racist/sexist or not. The data has been downloaded from Analytics Vidhya (https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/)
+This project is an attempt to solve the problem of text classification on twitter text datas— the task is to predict whether a tweet is racist/sexist or not.
